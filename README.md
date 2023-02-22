@@ -1,3 +1,3 @@
 # Teme
 
-Acest reposotory contine exercitii facute in cadrul cursului de C++.
+Acest repository contine teme/exercitii in C++ realizate individual.
